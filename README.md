@@ -1,2 +1,2 @@
 # kitapenvanteri-sql
-mssql kitap envanteri ödevi
+Bu proje 15 kitaplık MSSQL envanter tablosu ve örnek sorguları içerir.
